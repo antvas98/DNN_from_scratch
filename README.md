@@ -1,1 +1,2 @@
-# DNN_from_scratch
+# Deep Neural Networks from scratch
+
