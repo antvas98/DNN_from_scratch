@@ -1,2 +1,2 @@
-# Deep Neural Networks from scratch
+# Deep Neural Networks from scratch (using Adam optimizer)
 
